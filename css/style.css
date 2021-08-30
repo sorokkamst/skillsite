@@ -233,6 +233,7 @@
     top: 47px;
     left: 159px;
   }
+  }
   @media (min-width: 1200px) {
   .recording-price__full::after {
     width: 139px;
