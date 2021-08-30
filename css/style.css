@@ -552,10 +552,12 @@
   }
 }
 .recording-info__form {
+  max-height: 404px;
   margin-top: 21px;
 }
 @media (min-width: 770px) {
   .recording-info__form {
+    max-height: 378px;
     margin-top: 16px;
   }
 }
@@ -564,6 +566,7 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    max-height: 385px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
