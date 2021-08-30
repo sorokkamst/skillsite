@@ -769,6 +769,7 @@
   border: 0;
   background-color: #3D3BFF;
   margin-top: 50px;
+  padding: 0;
 }
 @media (min-width: 770px) {
   .recording-info__form-button {
