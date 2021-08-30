@@ -596,93 +596,34 @@
   }
 }
 .recording-info__input::-webkit-input-placeholder {
-  position: absolute;
   font-size: 15px;
   line-height: 28px;
   font-weight: 400;
   letter-spacing: -0.5px;
-  left: 30px;
-  top: 15px;
 }
 .recording-info__input::-moz-placeholder {
-  position: absolute;
   font-size: 15px;
   line-height: 28px;
   font-weight: 400;
   letter-spacing: -0.5px;
-  left: 30px;
-  top: 15px;
 }
 .recording-info__input:-ms-input-placeholder {
-  position: absolute;
   font-size: 15px;
   line-height: 28px;
   font-weight: 400;
   letter-spacing: -0.5px;
-  left: 30px;
-  top: 15px;
 }
 .recording-info__input::-ms-input-placeholder {
-  position: absolute;
   font-size: 15px;
   line-height: 28px;
   font-weight: 400;
   letter-spacing: -0.5px;
-  left: 30px;
-  top: 15px;
 }
 .recording-info__input::placeholder {
-  position: absolute;
   font-size: 15px;
   line-height: 28px;
   font-weight: 400;
   letter-spacing: -0.5px;
-  left: 30px;
-  top: 15px;
-}
-@media (min-width: 770px) {
-  .recording-info__input::-webkit-input-placeholder {
-    left: 20px;
-    top: 15px;
-  }
-  .recording-info__input::-moz-placeholder {
-    left: 20px;
-    top: 15px;
-  }
-  .recording-info__input:-ms-input-placeholder {
-    left: 20px;
-    top: 15px;
-  }
-  .recording-info__input::-ms-input-placeholder {
-    left: 20px;
-    top: 15px;
-  }
-  .recording-info__input::placeholder {
-    left: 20px;
-    top: 15px;
-  }
-}
-@media (min-width: 1200px) {
-  .recording-info__input::-webkit-input-placeholder {
-    left: 30px;
-    top: 13px;
-  }
-  .recording-info__input::-moz-placeholder {
-    left: 30px;
-    top: 13px;
-  }
-  .recording-info__input:-ms-input-placeholder {
-    left: 30px;
-    top: 13px;
-  }
-  .recording-info__input::-ms-input-placeholder {
-    left: 30px;
-    top: 13px;
-  }
-  .recording-info__input::placeholder {
-    left: 30px;
-    top: 13px;
-  }
 }
 .recording-info__input:not(:first-child) {
   margin-top: 18px;
